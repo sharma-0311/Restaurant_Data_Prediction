@@ -28,9 +28,13 @@ Included train-test splitting, confusion matrix, accuracy, precision, recall, et
 
 **Repository Structure**
 .
+
 ├── Cognifyz_Technologies_Level_1.ipynb
+
 ├── Cognifyz_Technologies_Level_2.ipynb
+
 ├── Cognifyz_Technologies_Level_3.ipynb
+
 └── README.md
 
 
